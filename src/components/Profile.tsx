@@ -11,7 +11,7 @@ export function Profile() {
     <div className={styles.profileContainer}>
       <img src="https://avatars.githubusercontent.com/u/62723388?s=460&u=e4300cecb4edc4214f1a6dd74afad87e5962553e&v=4" alt="Guilherme Gregory" />
       <div>
-        <strong>Diego Fernandes</strong>
+        <strong>Guiherme Gregory</strong>
         <p>
           <img src="icons/level.svg" alt="Level" />
           Level {level}
